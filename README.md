@@ -2,7 +2,7 @@
 
 ---
 
-# 👩🏽‍💼 Desirée Salvant – The Blush & Brains™
+# Desirée Salvant – The Blush & Brains™
 
 **Understand the people. Decode the data. Drive change.**
 
@@ -10,7 +10,7 @@ I’m a **Data Scientist** with an **MBA-HRM**, **SHRM-CP certification**, and *
 
 ---
 
-## 🧠 What I Do
+## What I Do
 
 🔍 I help organizations unlock insights about both **employees and customers**, using predictive modeling, machine learning, and behavioral analysis to solve real business challenges:
 
