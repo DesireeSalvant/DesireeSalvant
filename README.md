@@ -24,11 +24,12 @@ I help organizations unlock insights about both employees and customers, using p
 
 ## Education & Credentials
 
-- **MBA – Operations & Business Management**  
-- **BA – Psychology**  
-- **Google Data Analytics Professional Certificate**  
-- **Master Data Scientist Certification**  
-- Certified in **Behavioral and Psychological Analytics**
+- MBA – Operations & Business Management
+- BA – Psychology
+- SHRM-CP - Society for Human Resources Management
+- Google Data Analytics Professional Certificate  
+- Master Data Scientist Certification 
+- Certified in Behavioral and Psychological Analytics
 
 ---
 
