@@ -3,22 +3,22 @@
 
 ---
 
-# Desirée Salvant – The Blush & Brains™
+### Desirée Salvant – The Blush & Brains™
 
 **Understand the people. Decode the data. Drive change.**
 
-I’m a **Human-Centered Data Scientist** blending psychology, strategy, and storytelling. I focus on helping businesses understand and predict human behavior with psychology, strategy, and data.
+I’m a Human-Centered Data Scientist blending psychology, strategy, and storytelling. I focus on helping businesses understand and predict human behavior with psychology, strategy, and data.
 
 ---
 
 ## What I Do
 
-I help organizations unlock insights about both **employees and customers**, using predictive modeling, machine learning, and behavioral analysis to solve real business challenges:
+I help organizations unlock insights about both employees and customers, using predictive modeling, machine learning, and behavioral analysis to solve real business challenges:
 
-- Reduce **employee turnover** and **attrition risk**  
-- Improve **workforce engagement**, learning, and retention  
-- Analyze **customer & employee behavioral patterns**  
-- Translate data into **clear, strategic business decisions**
+- Reduce employee turnover and attrition risk 
+- Improve workforce engagement, learning, and retention  
+- Analyze customer & employee behavioral patterns**  
+- Translate data into clear, strategic business decisions
 
 ---
 
