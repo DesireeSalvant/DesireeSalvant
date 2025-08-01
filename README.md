@@ -17,7 +17,7 @@ I help organizations unlock insights about both employees and customers, using p
 
 - Reduce employee turnover and attrition risk 
 - Improve workforce engagement, learning, and retention  
-- Analyze customer & employee behavioral patterns**  
+- Analyze customer & employee behavioral patterns  
 - Translate data into clear, strategic business decisions
 
 ---
